@@ -14,3 +14,8 @@ ENV/
 
 # PyCharm
 .idea/
+
+reddit.config
+test.py
+/redditCricketSentimentAnalyzer/testing_folder/
+/redditCricketSentimentAnalyzer/credentials/reddit_credentials.json
